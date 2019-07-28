@@ -4,7 +4,7 @@ module colorbarFHD (
 
 	output wire [7:0] r,
 	output wire [7:0] g,
-	output wire [7:0] b,
+	output wire [7:0] b
 );
 
 wire [31:0] vramp;
